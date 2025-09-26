@@ -894,6 +894,9 @@ footer h1{
     header h1{
         font-size: 25px;
     }
+    .blackhole video{
+        margin-top: -15.5%;
+    }
     .blackhole-box video{
         margin-top: -1%;
     }
